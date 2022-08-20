@@ -1,8 +1,12 @@
 # Install-dlib
 
-### If you are installing dlib on <= python 3.6
-Then follow below link for the whl file,
-https://pypi.org/simple/dlib/
+### download file above and then install it 
+make sure the version is the same as your pyton version
+
+### After download the file 
+make sure you are in the same folder/directory with the dlib that you already download
+then type in your terminal -> pip install (yourfile, example : dlib-19.19.0-cp37-cp37m-win_amd64.whl)
+then press enter wait untill the process of the installation finish
 
 Complete video guide : https://youtu.be/ot6LWpZjTXo
 
